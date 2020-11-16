@@ -1,4 +1,4 @@
-## download the rep and || `npm install` to install the depencies
+## download the rep and || `npm install` to install the dependencies
 
 ## on production remeber to go to tailwiond.config.js file and change this to `true`
 
