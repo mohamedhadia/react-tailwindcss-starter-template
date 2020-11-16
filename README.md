@@ -12,4 +12,4 @@ purge: {
     ],
   },
 
-this so you get a very small css file from tailwind , it's baisicly delete the unused styles 
+this so you get a very small css file from tailwind , it baisicly deletes the unused styles 
